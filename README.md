@@ -46,15 +46,19 @@ Methodology:
 EDA Results
 
 - Histograms & boxplots: Show distribution & detect outliers.
-- 
+ 
 - Correlation heatmap: Found positive correlation between:
-- 
+ 
 - GDP per capita & Enrollment Rate
-- 
+  
 - Literacy Rate & Enrollment Rate
-- 
+  
 - Regional comparison: Some regions consistently below global average.
 
 - <img width="1016" height="477" alt="image" src="https://github.com/user-attachments/assets/fdb55284-2820-41fc-b060-00f787080caf" />
+
+Most countries have high enrollment rates, but some still lag behind highlighting regional inequality
+
+Boxplots
 
 
