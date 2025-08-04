@@ -60,5 +60,15 @@ EDA Results
 Most countries have high enrollment rates, but some still lag behind highlighting regional inequality
 
 Boxplots
+<img width="919" height="402" alt="image" src="https://github.com/user-attachments/assets/a3c84b36-1208-4c82-a3ad-7196999a9775" />
+
+Regions differ in both median enrollment and variability. Some regions show wide gaps among countries, highlighting unequal education opportunities.
+
+
+
+Heatmap
+<img width="830" height="402" alt="image" src="https://github.com/user-attachments/assets/e1378dbd-78cc-425b-b799-72f74a0a54e7" />
+
+
 
 
