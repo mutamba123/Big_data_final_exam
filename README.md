@@ -55,19 +55,68 @@ EDA Results
   
 - Regional comparison: Some regions consistently below global average.
 
-- <img width="1016" height="477" alt="image" src="https://github.com/user-attachments/assets/fdb55284-2820-41fc-b060-00f787080caf" />
+ <img width="1016" height="477" alt="image" src="https://github.com/user-attachments/assets/fdb55284-2820-41fc-b060-00f787080caf" />
 
 Most countries have high enrollment rates, but some still lag behind highlighting regional inequality
 
 Boxplots
+
 <img width="919" height="402" alt="image" src="https://github.com/user-attachments/assets/a3c84b36-1208-4c82-a3ad-7196999a9775" />
 
 Regions differ in both median enrollment and variability. Some regions show wide gaps among countries, highlighting unequal education opportunities.
 
 
 
-Heatmap
+Heatmap 
+
 <img width="830" height="402" alt="image" src="https://github.com/user-attachments/assets/e1378dbd-78cc-425b-b799-72f74a0a54e7" />
+
+Higher GDP and literacy strongly relate to better enrollment rates. Urbanization also contributes, though to a lesser extent.
+
+
+Clustering & Insights
+
+- Used KMeans to group countries with similar profiles.
+  
+- Evaluated with silhouette score.
+  
+- Identified clusters:
+
+- High GDP & high enrollment
+  
+- Medium GDP & medium enrollment
+  
+- Low GDP & low enrollment
+  
+- Helps policymakers target similar countries together
+
+  Clustering scatter plot
+
+  <img width="918" height="402" alt="image" src="https://github.com/user-attachments/assets/5743388b-5b53-4559-bd4d-0b123f752cb5" />
+
+  Dashboard Walkthrough (Power BI)
+  
+Visuals included:
+
+Line chart: Enrollment trend over years
+
+Bar chart: Enrollment by region (with drill-down to countries)
+
+Scatter plot: GDP vs Enrollment Rate (colored by cluster, sized by population)
+
+Map: Enrollment by country
+
+Summary card: Avg Global Enrollment Rate
+
+Tooltips: Literacy Rate & Urbanization Rate
+
+Slicers: Year & Region
+
+AI Visual: Decomposition tree (factors explaining low enrollment)
+
+<img width="831" height="444" alt="image" src="https://github.com/user-attachments/assets/0d1b0af8-a27a-497f-a5dd-67a6dd2258a4" />
+
+
 
 
 
