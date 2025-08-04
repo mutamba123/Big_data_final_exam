@@ -116,6 +116,66 @@ AI Visual: Decomposition tree (factors explaining low enrollment)
 
 <img width="831" height="444" alt="image" src="https://github.com/user-attachments/assets/0d1b0af8-a27a-497f-a5dd-67a6dd2258a4" />
 
+Recommendations
+
+ Title:Recommendations to Improve Secondary School Enrollment
+ 
+Bullet points (formatted clearly):
+
+Target interventions in low-GDP and low-literacy regions, where enrollment lags most.
+
+Invest in literacy programs and improve access to education in urban and rural areas.
+
+Use clustering insights to design policy measures that address countries with similar socio-economic profiles.
+
+Continuously monitor enrollment trends and key indicators through interactive dashboards, enabling data-driven decisions.
+(Optional add)
+
+Encourage cross-country collaboration within clusters to share best practices and resources.
+
+Future Work
+
+ Title:Future Work & Next Steps
+ 
+ Bullet points (keep concise, clear):
+ 
+Expand analysis to include multi-year data to track trends over time.
+
+Integrate additional variables, such as:
+
+Government spending on education
+
+Student–teacher ratios
+
+Internet and digital access
+
+Apply predictive models (e.g., time series forecasting) to anticipate future enrollment changes.
+Enhance the dashboard by:
+
+Adding AI-powered visuals (Key Influencers, Forecast)
+
+Including primary and tertiary enrollment data
+
+Collaborate with policymakers and researchers to turn insights into action.
+
+Conclusion
+
+ Title:Conclusion & Key Takeaways
+ 
+ Bullet points:
+ 
+Used big data analytics and visualization to explore global secondary school enrollment.
+
+Identified regions and countries where enrollment rates lag behind global averages.
+
+Found that GDP per capita and literacy rates strongly correlate with higher enrollment.
+
+Applied clustering to group countries with similar profiles, helping design targeted interventions.
+
+Developed an interactive Power BI dashboard to support data-driven policy decisions.
+
+Project highlights the value of data science in tackling global education challenges.
+
 
 
 
