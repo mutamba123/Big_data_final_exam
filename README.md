@@ -54,6 +54,8 @@ EDA Results
 - Literacy Rate & Enrollment Rate
   
 - Regional comparison: Some regions consistently below global average.
+  
+Histograms 
 
  <img width="1016" height="477" alt="image" src="https://github.com/user-attachments/assets/fdb55284-2820-41fc-b060-00f787080caf" />
 
@@ -113,6 +115,7 @@ Tooltips: Literacy Rate & Urbanization Rate
 Slicers: Year & Region
 
 AI Visual: Decomposition tree (factors explaining low enrollment)
+
 
 <img width="831" height="444" alt="image" src="https://github.com/user-attachments/assets/0d1b0af8-a27a-497f-a5dd-67a6dd2258a4" />
 
