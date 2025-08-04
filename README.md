@@ -24,3 +24,4 @@ Methodology:
 3.Clustering (KMeans)
 4.Visualization & dashboard in Power BI
 <img width="991" height="320" alt="image" src="https://github.com/user-attachments/assets/5bd6b8b6-9bac-48b8-87a7-b304867e74b5" />
+
